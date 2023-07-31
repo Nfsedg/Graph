@@ -1,0 +1,116 @@
+\documentclass{article}
+\usepackage[spanish]{babel}
+\usepackage{listings}
+\usepackage{hyperref}
+
+\begin{document}
+
+\title{Documentación de Graph}
+\author{Edgar Pech, Jacobo}
+\maketitle
+
+\tableofcontents
+
+\section{Introducción}
+Este documento proporciona documentación para el espacio de nombres \texttt{Graph} y la clase \texttt{MainWindow}. El código presentado a continuación define una estructura de datos básica de grafo y utiliza el algoritmo de Dijkstra para encontrar el camino más corto entre dos vértices.
+
+\section{Clase MainWindow}
+\subsection{Descripción de la Clase}
+La clase \texttt{MainWindow} es responsable de mostrar un grafo y encontrar el camino más corto entre dos vértices utilizando el algoritmo de Dijkstra.
+
+\subsection{Código Fuente}
+\begin{lstlisting}[language={[Sharp]C}]
+namespace Graph
+{
+    /// <summary>
+    /// Lógica de interacción para MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        // Miembros de clase y métodos...
+    }
+}
+\end{lstlisting}
+
+\subsection{Miembros de Clase y Métodos}
+\begin{itemize}
+    \item \textbf{Campos}
+    \begin{itemize}
+        \item \texttt{private Graph graph}: Representa la estructura de datos del grafo.
+    \end{itemize}
+    
+    \item \textbf{Constructor}
+    \begin{itemize}
+        \item \texttt{public MainWindow()}: Inicializa \texttt{MainWindow}, crea el grafo, agrega vértices y aristas, dibuja el grafo y encuentra el camino más corto usando el algoritmo de Dijkstra.
+    \end{itemize}
+    
+    \item \textbf{Clases Anidadas}
+    \begin{itemize}
+        \item \texttt{public class Vertex}: Representa un vértice en el grafo con un \texttt{Id}, coordenada \texttt{X} y coordenada \texttt{Y}.
+        
+        \item \texttt{public class Graph}: Representa la estructura de datos del grafo con un \texttt{AdjacencyList} para almacenar vértices y sus vecinos con los pesos asociados.
+    \end{itemize}
+    
+    \item \textbf{Métodos}
+    \begin{itemize}
+        \item \texttt{private void DrawGraph(Graph graph)}: Dibuja el grafo en el lienzo, incluyendo vértices como elipses y aristas como líneas con pesos.
+        
+        \item \texttt{public List<int> DijkstraShortestPath(Graph graph, int startVertexId, int endVertexId)}: Encuentra el camino más corto entre dos vértices usando el algoritmo de Dijkstra y devuelve una lista de IDs de vértices en el camino.
+        
+        \item \texttt{private void DisplayShortestPath(List<int> shortestPath)}: Muestra el camino más corto en el \texttt{shortestPathTextBlock} TextBlock.
+    \end{itemize}
+\end{itemize}
+
+\section{Clase Vertex}
+\subsection{Descripción de la Clase}
+La clase \texttt{Vertex} representa un vértice en el grafo con un \texttt{Id}, coordenada \texttt{X} y coordenada \texttt{Y}.
+
+\subsection{Código Fuente}
+\begin{lstlisting}[language={[Sharp]C}]
+public class Vertex
+{
+    public int Id { get; }
+    public double X { get; }
+    public double Y { get; }
+
+    public Vertex(int id, double x, double y)
+    {
+        Id = id;
+        X = x;
+        Y = y;
+    }
+}
+\end{lstlisting}
+
+\section{Clase Graph}
+\subsection{Descripción de la Clase}
+La clase \texttt{Graph} representa una estructura de datos de grafo con un \texttt{AdjacencyList} para almacenar vértices y sus vecinos con los pesos asociados.
+
+\subsection{Código Fuente}
+\begin{lstlisting}[language={[Sharp]C}]
+public class Graph
+{
+    public Dictionary<int, List<(Vertex neighbor, int weight)>> AdjacencyList { get; }
+
+    public Graph()
+    {
+        AdjacencyList = new Dictionary<int, List<(Vertex, int)>>();
+    }
+
+    // Agregar vértices y aristas según sea necesario
+    public void AddVertex(int vertexId, double x, double y)
+    {
+        // Implementación...
+    }
+
+    public void AddEdge(int sourceId, int destinationId, int weight)
+    {
+        // Implementación...
+    }
+}
+\end{lstlisting}
+
+\section{Conclusión}
+El código proporcionado define una estructura de datos básica de grafo y demuestra cómo encontrar el camino más corto entre dos vértices utilizando el algoritmo de Dijkstra. La clase MainWindow maneja la visualización del grafo y la interacción con el usuario.
+
+\end{document}

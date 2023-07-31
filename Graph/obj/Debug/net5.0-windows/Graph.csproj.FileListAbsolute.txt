@@ -1,0 +1,66 @@
+C:\Users\edgar\source\repos\Graph\Graph\bin\Debug\net5.0-windows\Graph.exe
+C:\Users\edgar\source\repos\Graph\Graph\bin\Debug\net5.0-windows\Graph.deps.json
+C:\Users\edgar\source\repos\Graph\Graph\bin\Debug\net5.0-windows\Graph.runtimeconfig.json
+C:\Users\edgar\source\repos\Graph\Graph\bin\Debug\net5.0-windows\Graph.runtimeconfig.dev.json
+C:\Users\edgar\source\repos\Graph\Graph\bin\Debug\net5.0-windows\Graph.dll
+C:\Users\edgar\source\repos\Graph\Graph\bin\Debug\net5.0-windows\Graph.pdb
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\Graph.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\Graph_MarkupCompile.cache
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\Graph_MarkupCompile.lref
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\Graph.g.resources
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\Graph.AssemblyInfoInputs.cache
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\Graph.AssemblyInfo.cs
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\Graph.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\Graph.dll
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\refint\Graph.dll
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\Graph.pdb
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\Graph.genruntimeconfig.cache
+C:\Users\edgar\source\repos\Graph\Graph\obj\Debug\net5.0-windows\ref\Graph.dll
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\bin\Debug\net5.0-windows\Graph.exe
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\bin\Debug\net5.0-windows\Graph.deps.json
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\bin\Debug\net5.0-windows\Graph.runtimeconfig.json
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\bin\Debug\net5.0-windows\Graph.runtimeconfig.dev.json
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\bin\Debug\net5.0-windows\Graph.dll
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\bin\Debug\net5.0-windows\Graph.pdb
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\Graph.csproj.AssemblyReference.cache
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\Graph_MarkupCompile.cache
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\Graph_MarkupCompile.lref
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\Graph.g.resources
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\Graph.AssemblyInfoInputs.cache
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\Graph.AssemblyInfo.cs
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\Graph.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\Graph.dll
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\refint\Graph.dll
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\Graph.pdb
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\Graph.genruntimeconfig.cache
+C:\Users\Upqroo\Downloads\Graph\Graph\Graph\obj\Debug\net5.0-windows\ref\Graph.dll
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\bin\Debug\net5.0-windows\Graph.exe
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\bin\Debug\net5.0-windows\Graph.deps.json
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\bin\Debug\net5.0-windows\Graph.runtimeconfig.json
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\bin\Debug\net5.0-windows\Graph.runtimeconfig.dev.json
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\bin\Debug\net5.0-windows\Graph.dll
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\bin\Debug\net5.0-windows\Graph.pdb
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\Graph.csproj.AssemblyReference.cache
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\Graph_MarkupCompile.cache
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\Graph_MarkupCompile.lref
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\Graph.g.resources
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\Graph.AssemblyInfoInputs.cache
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\Graph.AssemblyInfo.cs
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\Graph.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\Graph.dll
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\refint\Graph.dll
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\Graph.pdb
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\Graph.genruntimeconfig.cache
+C:\Users\edgar\Downloads\Graph (1)\Graph\Graph\obj\Debug\net5.0-windows\ref\Graph.dll
